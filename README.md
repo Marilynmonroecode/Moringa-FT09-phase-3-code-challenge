@@ -1,3 +1,5 @@
+# Author: MARILYN MUSYIMI, 17TH DEC 2024
+
 # Phase 3 -WK3 - Code Challenge: Articles - with database
 
 In this code challenge, you will be working with a Magazine domain.
@@ -153,6 +155,9 @@ Write the following methods in the models(Article, Author, magazine) provided in
   - Authors must be of type `Author`
   - Returns `None` if the magazine has no authors with more than 2 publications
 
+# TECHNOLOGIES USED
+  Python
+  SQL
 
-
-
+# CONTACT
+  https://github.com/Marilynmonroecode
